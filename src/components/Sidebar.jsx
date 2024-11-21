@@ -15,12 +15,12 @@ const DesktopSidebar = () => {
     <div className="p-3 md:p-10 border-r min-h-screen w-24 md:w-64 hidden sm:block ">
       <div className="flex flex-col gap-20 sticky top-10 left-0">
         <div className="w-full">
-          <img src="/logo.svg" alt="logo" className="hidden md:block  "></img>
           <img
-            src="/mobile-logo.svg"
+            src="/Main_logo.jpg"
             alt="logo"
-            className="block md:hidden"
+            className="hidden md:block  "
           ></img>
+          <img src="/recipe.png" alt="logo" className="block md:hidden"></img>
         </div>
         <ul className="flex flex-col items md:items-start gap-8">
           <Link to={"/"} className=" flex gap-1">
