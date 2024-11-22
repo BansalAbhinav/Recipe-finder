@@ -31,7 +31,7 @@ The Recipe Finder App is a user-friendly web application that simplifies meal pl
 ## Live Demo
 
 Visit the live version of the application:  
-[Recipe Finder App](https://yourgithubusername.github.io/recipe-finder-app)
+[Recipe Finder App](https://abhinav-bansal-recipe-finder.vercel.app/)
 
 ## Getting Started
 
